@@ -1,11 +1,18 @@
-- 👋 Hi, I’m @mayorwilliam
-- 👀 I’m interested in ... Data Scince, web/desktop aplications , python with pandas, Django, Nodejs, React and Flutter
-- 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ...Web applications, work with data with python/pandas but i'm open to any things  
-- 📫 How to reach me ... softwaregrada@gmail.com
+# Guillermo Granados · Full Stack AI Engineer 🤖 (BackEnd Oriented)
 
+Building AI-powered products that actually ship — from LLM integration to scalable APIs and reactive UIs.
 
-<!---
-mayorwilliam/mayorwilliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Stack
+**Frontend:** React · TypeScript · Next.js  
+**Backend:** Node.js · Python · REST & GraphQL APIs  
+**AI/ML:** OpenAI · Claude (Anthropic) · LangChain · Prompt Engineering  
+**Cloud & DevOps:** AWS · Docker · CI/CD  
+
+## 🔭 What I'm working on
+Integrating AI into real products — RAG pipelines, AI agents, and LLM-powered features with measurable impact.
+
+## 🤝 Open to collaborate on
+Senior full-stack projects with an AI component, or anything where good engineering + smart AI usage makes a difference.
+
+## 📬 Reach me
+softwaregrada@gmail.com · [LinkedIn](https://www.linkedin.com/in/guillermo-granados/) · [Portfolio](https://portafolio-personal-orcin.vercel.app)
